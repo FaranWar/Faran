@@ -1,4 +1,4 @@
-# Halo semua! 
+# Halo Semua! 
 
 Perkenalkan nama saya **Faran**.\
 
