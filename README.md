@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.\
+Perkenalkan nama saya **Faran**.\
 
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
 
