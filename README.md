@@ -1,8 +1,8 @@
 # Halo Semua! 
 
-Perkenalkan nama saya **Faran**.\
+Perkenalkan nama saya **Faran**.
 
-Saya seorang **CTeknik Elektro** di Universitas Muhammadiyah Surakarta\
+Saya seorang **CTeknik Elektro** di Universitas Muhammadiyah Surakarta
 
 Saya Belajar decoding sejak 2019
 
