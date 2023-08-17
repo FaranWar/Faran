@@ -2,9 +2,9 @@
 
 Perkenalkan nama saya **Faran**.
 
-Saya seorang **CTeknik Elektro** di Universitas Muhammadiyah Surakarta
+Saya seorang **Teknik Elektro** di **Universitas Muhammadiyah Surakarta**
 
-Saya Belajar decoding sejak 2019
+**Saya Belajar decoding sejak 2019**
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
 <p align="left">
